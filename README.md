@@ -2,4 +2,7 @@
 Une liste de cours que j'écris sur mon temps libre pour partager mes connaissances en programmation.
 
 # Mes cours 
-Pour le moment, j'ai écris un cours sur la POO en PHP et un cours sur les bases de Symfony 6. 
+- PHP & SQL : Les bases (Partie 1 à 6 disponible) (en cours de production)
+- PHP & le modèle MVC (en cours de production)
+- POO en PHP (Cours disponible, production terminée)
+- Symfony 6 (Partie 1 à 5 disponible) (en cours de production)
